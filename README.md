@@ -28,7 +28,7 @@ To use the Infected Egg Classifier, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/infected-egg-classifier.git
+git clone https://github.com/AlphaCodder/infected-egg-classifier.git
 ```
 
 2. Install the required dependencies:
@@ -69,7 +69,7 @@ Replace `<path_to_dataset>` with the path to your prepared dataset and `<value_o
 
 ## Evaluation
 
-We have conducted extensive evaluations to assess the performance of the Infected Egg Classifier. The results indicate high accuracy and precision in detecting infected eggs. For detailed evaluation metrics, refer to the [Evaluation.md](https://github.com/yourusername/infected-egg-classifier/blob/main/Evaluation.md) file.
+We have conducted extensive evaluations to assess the performance of the Infected Egg Classifier. The results indicate high accuracy and precision in detecting infected eggs. For detailed evaluation metrics, refer to the [Evaluation.md](https://github.com/AlphaCodder/infected-egg-classifier/blob/main/Evaluation.md) file.
 
 ## Contributing
 
@@ -77,8 +77,8 @@ Contributions to the Infected Egg Classifier are welcome! If you have any ideas,
 
 ## License
 
-The Infected Egg Classifier is licensed under the [MIT License](https://github.com/yourusername/infected-egg-classifier/blob/main/LICENSE). Feel free to use, modify, and distribute this project as per the license terms.
+The Infected Egg Classifier is licensed under the [MIT License](https://github.com/AlphaCodder/infected-egg-classifier/blob/main/LICENSE). Feel free to use, modify, and distribute this project as per the license terms.
 
 ---
 
-Thank you for using the Infected Egg Classifier! If you have any questions or need assistance, please reach out to us at [support@example.com](mailto:support@example.com).
+Thank you for using the Infected Egg Classifier! If you have any questions or need assistance, please reach out to us at [kumars23279@gmail.com](mailto:kumars23279@gmail.com).
