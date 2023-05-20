@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Egg Type Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333333;
+        }
+
+        .result-container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .result-text {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .prediction {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Egg Type Prediction Result</h1>
+    <div class="result-container">
+        <div class="result-text">Your egg is of type:</div>
+        <div class="prediction">{{ prediction }}</div>
+    </div>
+</body>
+</html>
